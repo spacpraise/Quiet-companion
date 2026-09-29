@@ -1,0 +1,6 @@
+{
+  "name": "Quiet Companion",
+  "description": "A calm, dedicated sanctuary to restore your natural reading cadence, intentional routines, scripture and prayer intercessions, and focused stillness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
